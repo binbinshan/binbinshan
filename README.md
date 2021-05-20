@@ -1,9 +1,7 @@
-### Hi there 👋
+# Todoist Stats
 
-＃  Todoist统计
-
-<！ - TODO-IST：开始- > 
-<！ - TODO-IST：END - >
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
 <!--
 **binbinshan/binbinshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
