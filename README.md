@@ -6,6 +6,5 @@
 - ⚡ Fun fact: ...
 
 
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
+<img src="https://github-readme-stats.vercel.app/api?username=binbinshan&show_icons=true">
 
